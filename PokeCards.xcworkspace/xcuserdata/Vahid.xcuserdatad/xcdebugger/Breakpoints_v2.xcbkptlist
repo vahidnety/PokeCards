@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9D77ACA1-ACB0-484A-A56B-54F88F3DDB4D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AD82913-0B68-4973-B674-4EB82CBB4891"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeCards/View Model/PokemonsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "fetchPokemonCards(isLoadingMore:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4AD82913-0B68-4973-B674-4EB82CBB4891 - b69f68ff18a49859"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokeCards.PokemonsListViewModel.fetchPokemonCards(isLoadingMore: Swift.Bool) -&gt; ()"
+                  moduleName = "PokeCards"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vahid/Desktop/PokeCards/PokeCards/View%20Model/PokemonsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1086">
+               </Location>
+               <Location
+                  uuid = "4AD82913-0B68-4973-B674-4EB82CBB4891 - dd5b67b35db6f3da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in PokeCards.PokemonsListViewModel.fetchPokemonCards(isLoadingMore: Swift.Bool) -&gt; ()"
+                  moduleName = "PokeCards"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vahid/Desktop/PokeCards/PokeCards/View%20Model/PokemonsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "385">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30607FED-EAA3-4937-96CE-B2D5E56ADDF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeCards/View Model/PokemonsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fetchPokemonCards(isLoadingMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
